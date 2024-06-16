@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="500c0d66-8bb8-4064-ae7c-93a8e66208de" name="Changes" comment="build: defined transaction_result; referenced Assignment1">
+    <list default="true" id="500c0d66-8bb8-4064-ae7c-93a8e66208de" name="Changes" comment="build: main finished and debugged">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +14,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -30,6 +31,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -62,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718551022766</updated>
       <workItem from="1718551023796" duration="64000" />
-      <workItem from="1718551095748" duration="3094000" />
+      <workItem from="1718551095748" duration="3962000" />
     </task>
     <task id="LOCAL-00001" summary="build: initial build">
       <option name="closed" value="true" />
@@ -112,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718555238929</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="build: main finished and debugged">
+      <option name="closed" value="true" />
+      <created>1718557327144</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718557327144</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +135,10 @@
     <MESSAGE value="build: defined make_sandwhich in sandwhich_maker" />
     <MESSAGE value="build: defined process_coins; used def from Assignment1 as reference" />
     <MESSAGE value="build: defined transaction_result; referenced Assignment1" />
-    <option name="LAST_COMMIT_MESSAGE" value="build: defined transaction_result; referenced Assignment1" />
+    <MESSAGE value="build: main finished and debugged" />
+    <option name="LAST_COMMIT_MESSAGE" value="build: main finished and debugged" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/moduleSandwichMaker$main.coverage" NAME="main Coverage Results" MODIFIED="1718557248528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

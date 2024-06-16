@@ -13,7 +13,7 @@ def main():
     while True:
         choice = input("What size sandwich would you like? (small/medium/large): ").lower()
         if choice in recipes:
-            cost = recipes[choice]["cost"]    #what is difference of " and '
+            cost = recipes[choice]["cost"]    # What is difference of " and '
             ingredients = recipes[choice]["ingredients"]
 
             if sandwich_maker_instance.check_resources(ingredients):
