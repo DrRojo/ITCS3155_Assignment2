@@ -21,7 +21,7 @@ class Cashier:
                 print(f"Your change is {change} coins.")
             else:
                 print(f"Thank you! No change to give back")
-            return true
+            return True
         else:
             print(f"Not enough money.  Transaction canceled")
             return False

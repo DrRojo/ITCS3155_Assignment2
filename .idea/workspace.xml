@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="500c0d66-8bb8-4064-ae7c-93a8e66208de" name="Changes" comment="build: defined make_sandwhich in sandwhich_maker">
-      <change beforePath="$PROJECT_DIR$/cashier.py" beforeDir="false" afterPath="$PROJECT_DIR$/cashier.py" afterDir="false" />
+    <list default="true" id="500c0d66-8bb8-4064-ae7c-93a8e66208de" name="Changes" comment="build: defined transaction_result; referenced Assignment1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718551022766</updated>
       <workItem from="1718551023796" duration="64000" />
-      <workItem from="1718551095748" duration="1427000" />
+      <workItem from="1718551095748" duration="3094000" />
     </task>
     <task id="LOCAL-00001" summary="build: initial build">
       <option name="closed" value="true" />
@@ -94,7 +96,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718554862218</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="build: defined process_coins; used def from Assignment1 as reference">
+      <option name="closed" value="true" />
+      <created>1718554986244</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718554986244</updated>
+    </task>
+    <task id="LOCAL-00006" summary="build: defined transaction_result; referenced Assignment1">
+      <option name="closed" value="true" />
+      <created>1718555238929</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718555238929</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +123,8 @@
     <MESSAGE value="build: defining check_resources" />
     <MESSAGE value="build: defining check_resources, complete" />
     <MESSAGE value="build: defined make_sandwhich in sandwhich_maker" />
-    <option name="LAST_COMMIT_MESSAGE" value="build: defined make_sandwhich in sandwhich_maker" />
+    <MESSAGE value="build: defined process_coins; used def from Assignment1 as reference" />
+    <MESSAGE value="build: defined transaction_result; referenced Assignment1" />
+    <option name="LAST_COMMIT_MESSAGE" value="build: defined transaction_result; referenced Assignment1" />
   </component>
 </project>
