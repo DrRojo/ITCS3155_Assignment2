@@ -7,6 +7,7 @@ class SandwichMaker:
         """Returns True when order can be made, False if ingredients are insufficient."""
         for item in ingredients:
             if ingredients[item] > self.machine_resources.get(item,0):
+                return False
+        return True
 
     def make_sandwich(self, sandwich_size, order_ingredients):
-        #####
