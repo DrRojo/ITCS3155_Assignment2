@@ -11,3 +11,10 @@ class SandwichMaker:
         return True
 
     def make_sandwich(self, sandwich_size, order_ingredients):
+        """Deduct the required ingredients from the resources."""
+        if self.check_resources(order_ingredients):
+            for item in order_ingredients:
+                self.machine_resources[item] -= order_ingredients[item]
+            return f"Made a {sandwich_size} sandwich."
+        else:
+            return "Insufficient resources to make a sandwich."
